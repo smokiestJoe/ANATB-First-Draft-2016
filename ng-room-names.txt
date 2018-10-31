@@ -1,0 +1,105 @@
+000~Vending Room
+100~West Wing Front
+200~TWIGHLIGHT ZONE
+300~The Foyer
+400~TWIGHLIGHT ZONE
+500~East Wing Front
+600~Agricultural Hardware Storage
+010~Smoking Room
+110~Western Passage
+210~Hallway West
+310~The Entrance Hall
+410~Hallway East
+510~Eastern Passage
+610~Utility Room
+020~Suspicious Room
+120~Staff Access
+220~Store Room
+320~Front Office
+420~Earl's Den
+520~Music Room
+620~Kitchen
+030~Spares Department
+130~Instrument Repairs
+230~Back Corridor
+330~Habitation Corridor
+430~Barn Grounds
+530~Fuse Room
+630~Main Stairs
+040~Study
+140~Service Passage
+240~Model Room
+340~Rear Passage
+440~GAME OVER
+540~Staff Area
+640~Lost Property
+001~
+101~
+201~
+301~
+401~
+501~
+601~
+011~
+111~Earline's Landing
+211~Landing South
+311~Crooked Corner
+411~Earl's Room
+511~Kletus' Room
+611~Grand Pappy Earl's Room
+021~Secret Room
+121~Landing West
+221~Earline's Dungeon
+321~Creepy Passage
+421~Landing West
+521~Landing North
+621~Landing East
+031~
+131~Earline's Chamber
+231~Earline's Boudoir
+331~Hidden Stairs
+431~
+531~
+631~Main Stairs
+041~
+141~
+241~
+341~
+441~
+541~
+641~
+002~
+102~
+202~
+302~
+402~
+502~
+602~
+012~
+112~
+212~
+312~
+412~
+512~
+612~
+022~Discotheque
+122~Laboratory
+222~Workshop
+322~Conservatory
+422~Veranda
+522~
+622~
+032~Upper Landing West
+132~Upper Landing North
+232~Upper Landing East
+332~Secret Staircase
+432~Rooftop
+532~
+632~
+042~
+142~
+242~
+342~
+442~
+542~
+642~

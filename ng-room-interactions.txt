@@ -1,0 +1,105 @@
+000~FIRE:FO2:, you think it best to move on but the northern doorway is blocked by a fire~CIRCUIT BREAKER:PO4:, alas, on inspection, you see all the wiring is destroyed~
+100~OIL LAMP:P12:, which unfortunately is unlit~
+200~
+300~ 
+400~
+500~OIL LAMP:P12:, which unfortunately is unlit~
+600~
+010~
+110~LOCKED DOOR:DO3:, to the north is a locked door~
+210~LOCKED DOOR:DO1:, which appears to be locked~
+310~
+410~PHOTO FRAME:PO3:, upon closer inspection you notice that one photo frame is missing its photograph~LOCKED DOOR:DO7:, though the northern door is locked~
+510~
+610~
+020~BUTTON:P05: the red button is unlit~
+120~
+220~
+320~
+420~
+520~PIANO:P11:, but is missing several key components to be able to play~
+620~
+030~
+130~
+230~LOCKED DOOR:DO4:, though the door to the west is locked~
+330~
+430~
+530~FUSE BOX:COR: when you notice that one of the main power cables is missing from the fuse box~
+630~
+040~CLOCK:PO2:, though it appears to be missing its gears~
+140~OIL LAMP:P12:, which unfortunately is unlit~
+240~SHELF:PO1:, that is when you notice that one of the shelves is missing a figurine~
+340~
+440~
+540~OIL LAMP:P12:, which unfortunately is unlit~
+640~
+001~
+101~
+201~
+301~
+401~
+501~
+601~
+011~
+111~
+211~
+311~
+411~
+511~
+611~
+021~
+121~LOCKED DOOR:DO6: and is currently locked~
+221~
+321~
+421~LOCKED DOOR:DO8:, which is locked~
+521~LOCKED DOOR:DO9: and the door is locked tight~
+621~
+031~
+131~
+231~CARD READER:DO5:, which when you try it is locked, apparently by a card reader~
+331~
+431~
+531~
+631~
+041~
+141~
+241~
+341~
+441~
+541~
+641~
+002~
+102~
+202~
+302~
+402~
+502~
+602~
+012~
+112~
+212~
+312~
+412~
+512~
+612~
+022~GRAMOPHONE:P2O:, which unfortunately is missing a record~
+122~
+222~TOOLKIT:P21:, which appears to be missing a spanner~
+322~
+422~KEY PAD:D1O:, but it is currently behind a gate that is locked by a key pad~
+522~
+622~
+032~
+132~
+232~
+332~
+432~
+532~
+632~
+042~
+142~
+242~
+342~
+442~
+542~
+642~

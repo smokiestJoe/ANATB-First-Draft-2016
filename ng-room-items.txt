@@ -1,0 +1,105 @@
+000~BANANA:FOO:, though underneath you can see a scrumptious looking Banana~
+100~
+200~
+300~ 
+400~
+500~
+600~
+010~BRASS KEY:DO3:, off which hangs a Brass Key~
+110~
+210~
+310~FIGURINE:PO1: which has a figurine of a porcupine sitting on top of it~
+410~EXTINGUISHER:FO2: and an extinguisher that resides on the wall~
+510~KEY CARD:DO5:, you see a Key Card poking out of the top~
+610~SMALL KEY:DO6: and you see a small key sitting on top of the work top~
+020~
+120~
+220~RUBY KEY:DO4:, which has a ruby key lying on top of it~GEARS:PO2: There are even some old gears on the shelf, being very small, you wonder what purpose they could hold~
+320~KEY:DO1: which has a key sitting on top of it~APPLE:FOO:, which is displaying a somewhat tasty looking apple on top of it~
+420~EARL'S KEY:DO8: and a key, that has the tag that reads "Earl's"~
+520~
+620~CARROT:FOO:, though you do see a carrot that looks like it may still be edible~TURNIP:FOO:, that said, you do spot a turnip perched on the corner of one of the work surfaces~
+030~WIRES:PO4, though you do notice some which may be usable~
+130~PIANO KEYS:P11: and it becomes apparent these are a newish edition to this calamitous collection~
+230~
+330~
+430~
+530~
+630~
+040~
+140~
+240~
+340~PHOTOGRAPH:PO3: and someone appears to have dropped a photograph as you see it among the dirt~
+440~
+540~CRISPS:FOO:, though someone has left a packet of Crisps which seem fine~
+640~RECORD:P2O:, though you do notice a record that is labelled "Warning, Heavy Metal- Listeners must Lift"~
+001~
+101~
+201~
+301~
+401~
+501~
+601~
+011~
+111~
+211~
+311~
+411~ORNATE KEY:DO9:, as you do, you notice the Ornate key hanging on the wall~LIGHTER:P12:, until you see the Lighter sitting there~
+511~PIANO STOOL:P11: stacked neatly on the Piano Stool~SPANNER:P21:, which has been stirred by a spanner that looks like it came from a reasonably new tool kit~
+611~SHEET MUSIC:P11: with the exception of a book sleeve labelled "Sheet Music"~
+021~
+121~
+221~PIANO WIRE:P11:, including some gutted Piano Wire~GOLD KEY:DO7:, but you do notice a gold key amongst the paraphernalia~
+321~
+421~
+521~
+621~
+031~
+131~APPLE:FOO:, though you notice she has left an apple on the side~
+231~POWER CABLE:COR: connected to a power cable that connects to nothing at all~
+331~
+431~
+531~
+631~
+041~
+141~
+241~
+341~
+441~
+541~
+641~
+002~
+102~
+202~
+302~
+402~
+502~
+602~
+012~
+112~
+212~
+312~
+412~
+512~
+612~
+022~
+122~KEY CODE:D1O:, you notice a piece of paper that has the word "Key Code" written on it~
+222~
+322~
+422~
+522~
+622~
+032~
+132~
+232~
+332~
+432~
+532~
+632~
+042~
+142~
+242~
+342~
+442~
+542~
+642~
